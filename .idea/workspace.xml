@@ -2,8 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0edf014-fb40-4ac9-a69d-ffaa9e2b9ab0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo1/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo1 - Efeitos Botão/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo1/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo1 - Efeitos Botão/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo10/estilo.css" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo10 - Animação/estilo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo10/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo10 - Animação/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo10/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo10 - Animação/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo11/estilo.css" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo11 - Animação/estilo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo11/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo11 - Animação/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo11/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo11 - Animação/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo12/estilo.css" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo12 - Animação/estilo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo12/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo12 - Animação/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo12/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo12 - Animação/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo13/estilo.css" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo13 - Slide/estilo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo13/imgs/img1.jpg" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo13 - Slide/imgs/img1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo13/imgs/img2.jpg" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo13 - Slide/imgs/img2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo13/imgs/img3.jpg" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo13 - Slide/imgs/img3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo13/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo13 - Slide/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo13/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo13 - Slide/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo14/estilo.css" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo14 - Arrasta e Solta/estilo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo14/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo14 - Arrasta e Solta/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo14/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo14 - Arrasta e Solta/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo14/js/jquery-ui.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo14 - Arrasta e Solta/js/jquery-ui.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo15/estilo.css" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo15 - Arrasta e Solta/estilo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo15/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo15 - Arrasta e Solta/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo15/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo15 - Arrasta e Solta/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo15/js/jquery-ui.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo15 - Arrasta e Solta/js/jquery-ui.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo16/estilo.css" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo16 - Arrasta e Solta/estilo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo16/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo16 - Arrasta e Solta/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo16/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo16 - Arrasta e Solta/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo16/js/jquery-ui.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo16 - Arrasta e Solta/js/jquery-ui.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/estilo.css" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/estilo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/images/ui-bg_flat_10_000000_40x100.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/images/ui-bg_flat_10_000000_40x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/images/ui-bg_glass_100_f6f6f6_1x400.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/images/ui-bg_glass_100_f6f6f6_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/images/ui-bg_glass_100_fdf5ce_1x400.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/images/ui-bg_glass_100_fdf5ce_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/images/ui-bg_gloss-wave_35_f6a828_500x100.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/images/ui-icons_222222_256x240.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/images/ui-icons_222222_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/images/ui-icons_228ef1_256x240.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/images/ui-icons_228ef1_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/images/ui-icons_ef8c08_256x240.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/images/ui-icons_ef8c08_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/images/ui-icons_ffd27a_256x240.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/images/ui-icons_ffd27a_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/images/ui-icons_ffffff_256x240.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/images/ui-icons_ffffff_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/jquery-ui.structure.css" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/jquery-ui.structure.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/jquery-ui.theme.css" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/jquery-ui.theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/js/jquery-ui.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/js/jquery-ui.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17/mensagens.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/mensagens.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/css/estilo.css" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/css/estilo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/css/lightbox.css" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/css/lightbox.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/images/close.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/images/close.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/images/loading.gif" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/images/loading.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/images/next.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/images/next.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/images/prev.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/images/prev.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/imgs/img1.jpg" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/imgs/img1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/imgs/img2.jpg" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/imgs/img2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/imgs/img3.jpg" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/imgs/img3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/imgs/mini1.jpg" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/imgs/mini1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/imgs/mini2.jpg" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/imgs/mini2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/imgs/mini3.jpg" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/imgs/mini3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19/js/lightbox.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/js/lightbox.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo2/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo2 - Efeitos CSS/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo2/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo2 - Efeitos CSS/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo3/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo3 - Botões Troca Frase/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo3/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo3 - Botões Troca Frase/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo4/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo4 - Eventos Mouse/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo4/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo4 - Eventos Mouse/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo5/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo5 - Animação Move Quadrado/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo5/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo5 - Animação Move Quadrado/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo6/estilos.css" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo6 - Botão Escreve/estilos.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo6/exemplo.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo6 - Botão Escreve/exemplo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo6/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo6 - Botão Escreve/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo6/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo6 - Botão Escreve/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo6/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo6 - Botão Escreve/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo6/texto.txt" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo6 - Botão Escreve/texto.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo7/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo7 - Efeitos/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo7/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo7 - Efeitos/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo8/estilo.css" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo8 - Efeitos/estilo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo8/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo8 - Efeitos/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo8/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo8 - Efeitos/js/jquery-1.12.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo8/publicidade.png" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo8 - Efeitos/publicidade.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo9/estilo.css" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo9 - Efeitos Botão/estilo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo9/index.html" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo9 - Efeitos Botão/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Exemplos Jquery/Exemplo9/js/jquery-1.12.1.min.js" afterPath="$PROJECT_DIR$/Exemplos Jquery/Exemplo9 - Efeitos Botão/js/jquery-1.12.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +102,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo19/index.html">
+        <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="76" lean-forward="false" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
@@ -122,20 +209,20 @@
               <item name="jquery_essencial" type="b2602c69:ProjectViewProjectNode" />
               <item name="jquery_essencial" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Exemplos Jquery" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Exemplo19" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Exemplo19 - LightBox" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="jquery_essencial" type="b2602c69:ProjectViewProjectNode" />
               <item name="jquery_essencial" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Exemplos Jquery" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Exemplo19" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Exemplo19 - LightBox" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="jquery_essencial" type="b2602c69:ProjectViewProjectNode" />
               <item name="jquery_essencial" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Exemplos Jquery" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Exemplo19" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Exemplo19 - LightBox" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -196,16 +283,15 @@
       <workItem from="1536689728009" duration="24000" />
       <workItem from="1536835638555" duration="3697000" />
       <workItem from="1537012491832" duration="33000" />
-      <workItem from="1537884022041" duration="6702000" />
+      <workItem from="1537884022041" duration="7324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25611000" />
+    <option name="totallyTimeSpent" value="26233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="714" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18409091" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -214,7 +300,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37585035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37585035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -244,21 +330,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo3/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo3 - Botões Troca Frase/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo1/js/jquery-1.12.1.min.js">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo1 - Efeitos Botão/js/jquery-1.12.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo2/js/jquery-1.12.1.min.js">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo2 - Efeitos CSS/js/jquery-1.12.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -272,28 +358,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo2/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo2 - Efeitos CSS/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="60" lean-forward="false" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo3/js/jquery-1.12.1.min.js">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo3 - Botões Troca Frase/js/jquery-1.12.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo4/js/jquery-1.12.1.min.js">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo4 - Eventos Mouse/js/jquery-1.12.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo3/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo3 - Botões Troca Frase/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="74" />
@@ -307,28 +393,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo1/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo1 - Efeitos Botão/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="78" lean-forward="false" selection-start-line="5" selection-start-column="78" selection-end-line="5" selection-end-column="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo4/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo4 - Eventos Mouse/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
           <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo5/js/jquery-1.12.1.min.js">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo5 - Animação Move Quadrado/js/jquery-1.12.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo5/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo5 - Animação Move Quadrado/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
@@ -342,28 +428,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo6/estilos.css">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo6 - Botão Escreve/estilos.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo6/texto.txt">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo6 - Botão Escreve/texto.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo6/exemplo.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo6 - Botão Escreve/exemplo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo6/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo6 - Botão Escreve/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="43" lean-forward="false" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
@@ -384,42 +470,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo7/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo7 - Efeitos/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo8/estilo.css">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo8 - Efeitos/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-422">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo8/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo8 - Efeitos/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo9/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo9 - Efeitos Botão/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo9/estilo.css">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo9 - Efeitos Botão/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo10/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo10 - Animação/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
@@ -433,21 +519,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo11/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo11 - Animação/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="58" lean-forward="false" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo12/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo12 - Animação/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="85" lean-forward="false" selection-start-line="25" selection-start-column="85" selection-end-line="25" selection-end-column="85" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo13/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo13 - Slide/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="21" column="45" lean-forward="false" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
@@ -470,7 +556,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo14/estilo.css">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo14 - Arrasta e Solta/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
@@ -478,7 +564,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo14/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo14 - Arrasta e Solta/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
@@ -494,7 +580,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo15/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo15 - Arrasta e Solta/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
           <caret line="37" column="39" lean-forward="false" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
@@ -502,7 +588,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo15/estilo.css">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo15 - Arrasta e Solta/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -518,7 +604,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo16/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo16 - Arrasta e Solta/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
@@ -534,7 +620,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo16/estilo.css">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo16 - Arrasta e Solta/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -542,7 +628,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo17/estilo.css">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -574,7 +660,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo17/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
           <caret line="45" column="53" lean-forward="true" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
@@ -582,7 +668,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo17/mensagens.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo17 - Arrasta e Solta/mensagens.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
@@ -609,7 +695,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo19/index.html">
+    <entry file="file://$PROJECT_DIR$/Exemplos Jquery/Exemplo19 - LightBox/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="76" lean-forward="false" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
