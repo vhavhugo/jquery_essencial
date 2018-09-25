@@ -10,15 +10,71 @@
 <link href="jquery-ui.theme.css" rel="stylesheet" type="text/css">
 
 <script type="text/javascript">
+$(function(){
+    var PalavrasChave = [
+        "ActionScript",
+        "AppleScript",
+        "Asp",
+        "BASIC",
+        "C",
+        "C++",
+        "Clojure",
+        "COBOL",
+        "ColdFusion",
+        "Erlang",
+        "Fortran",
+        "Groovy",
+        "Haskell",
+        "Java",
+        "JavaScript",
+        "Lisp",
+        "Perl",
+        "PHP",
+        "Python",
+        "Ruby",
+        "Scala",
+        "Scheme"
+    ];
+    $("#campodata").datepicker();
 
+    $("#Cursos").autocomplete({
+        source: PalavrasChave
+    });
+
+    $("#accordion").accordion();
+
+    $("#mensagem").load("mensagens.html #mensagem2");
+
+    $("#mensagem").dialog({
+        resizable: false,
+        height: 240,
+        modal: true,
+        buttons: {
+            "Enviar": function () {
+                $(this).dialog("close");
+            },
+            "Cancelar": function () {
+                $(this).dialog("close");
+
+            }
+        }
+
+    });
+
+
+});
 </script>
 
 </head>
 
 <body>
+<!--<div id="mensagem" title="T�tulo da mensagem Aqui!!!">-->
+  <!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed mollis nulla, quis iaculis purus. Proin vestibulum sapien nec semper mattis. Pellentesque eu eros nec magna viverra ultrices quis id risus.</p>-->
+<!--</div>-->
 
 <div id="mensagem" title="Título da mensagem Aqui!!!">
-  
+  <!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed mollis nulla, quis iaculis purus. Proin vestibulum sapien nec semper mattis. Pellentesque eu eros nec magna viverra ultrices quis id risus.</p>-->
+
 </div>
 
 <div id="Exemplo" class="box">
@@ -28,11 +84,16 @@
   <h3>Seção 1</h3>
   <div>
     <p>
-    <label for="Cursos">Digite o curso desejado: </label>
-   <input id="Cursos">
-   <p> <label for="campodata">Data:</label> <input type="text" name="Data" id="campodata"></p>
-   
-   <button id="enviar">Enviar </button>
+    <!--<label for="Cursos">Digite o curso desejado: </label>-->
+   <!--<input id="Cursos">-->
+   <!--<p> <label for="campodata">Data:</label> <input type="text" name="Data" id="campodata"></p>-->
+   <!---->
+   <!--<button id="enviar">Enviar </button>-->
+
+      <p><label for="campodata">Data:</label>
+    <input type="text" name="Data" id="campodata"></p>
+    <p><label for="Cursos">Digite o curso desejado: </label></p>
+      <input id="Cursos"> <button id="enviar">Enviar </button>
     </p>
   </div>
   <h3>Seção 2</h3>

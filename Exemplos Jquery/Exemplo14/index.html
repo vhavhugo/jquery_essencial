@@ -8,8 +8,22 @@
 <link href="estilo.css" rel="stylesheet" type="text/css">
 
 <script type="text/javascript">
+	$(function(){
+	    //mover a div
+	   $("#Arrastar").draggable({
+		   cursor: 'move',
+		   containment: '#Exemplo',
+		   stop:Soltou
+	   });
+	});
 
- 
+	function Soltou(event, ui){
+	    alert("Parou");
+		var XPos = parseInt(ui.offset.left);
+		var YPos = parseInt(ui.offset.top);
+        alert( "Parou em:\n\(" + XPos + ", " + YPos + ")\n");
+	}
+
 </script>
 
 
