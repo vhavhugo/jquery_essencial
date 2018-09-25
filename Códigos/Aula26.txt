@@ -1,0 +1,29 @@
+HTML
+====
+
+<div id="mensagem" title="Título da mensagem Aqui!!!">
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed mollis nulla, quis iaculis purus. Proin vestibulum sapien nec semper mattis. Pellentesque eu eros nec magna viverra ultrices quis id risus.</p>
+</div>
+
+JQUERY
+======
+
+
+$("#mensagem").dialog();
+
+----------------------------------------------------------
+
+$("#mensagem").dialog({
+		
+	  resizable: false,
+      height:240,
+      modal: true,
+      buttons: {
+        "Enviar": function() {
+          $(this).dialog("close");
+        },
+        "Cancelar": function() {
+          $(this).dialog("close");
+        }
+      }
+    });

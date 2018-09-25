@@ -1,0 +1,31 @@
+HTML
+=====
+
+<h1 id="intro">Seletores e filtros</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eleifend ullamcorper erat, quis convallis elit commodo sit amet. Etiam congue vitae lacus sed rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur quis purus diam. Nulla luctus augue enim, at egestas felis consequat nec. Aenean viverra sodales nunc vitae porta. Vestibulum mi lacus, mollis a gravida id, scelerisque at arcu. Pellentesque dui purus, malesuada sit amet enim sed, rhoncus interdum lorem. Mauris volutpat ipsum eget erat mollis pellentesque. Etiam suscipit ac massa id sodales. Morbi eget massa vitae tortor imperdiet tincidunt. Curabitur malesuada, erat in scelerisque lobortis, nibh mauris commodo leo, eu mattis arcu ipsum ac nibh.</p>
+    
+<h2 class="seletor">Seletor</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eleifend ullamcorper erat, quis convallis elit commodo sit amet. Etiam congue vitae lacus sed rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur quis purus diam. Nulla luctus augue enim, at egestas felis consequat nec. Aenean viverra sodales nunc vitae porta. Vestibulum mi lacus, mollis a gravida id, scelerisque at arcu. Pellentesque dui purus, malesuada sit amet enim sed, rhoncus interdum lorem. Mauris volutpat ipsum eget erat mollis pellentesque. Etiam suscipit ac massa id sodales. Morbi eget massa vitae tortor imperdiet tincidunt. Curabitur malesuada, erat in scelerisque lobortis, nibh mauris commodo leo, eu mattis arcu ipsum ac nibh.</p>
+	
+<h2 class="filtro">Filtro</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eleifend ullamcorper erat, quis convallis elit commodo sit amet. Etiam congue vitae lacus sed rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur quis purus diam. Nulla luctus augue enim, at egestas felis consequat nec. Aenean viverra sodales nunc vitae porta. Vestibulum mi lacus, mollis a gravida id, scelerisque at arcu. Pellentesque dui purus, malesuada sit amet enim sed, rhoncus interdum lorem. Mauris volutpat ipsum eget erat mollis pellentesque. Etiam suscipit ac massa id sodales. Morbi eget massa vitae tortor imperdiet tincidunt. Curabitur malesuada, erat in scelerisque lobortis, nibh mauris commodo leo, eu mattis arcu ipsum ac nibh.</p>
+
+=========================================
+
+<script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
+
+==========================================
+
+
+
+Jquery
+======
+$("p").css("border", "3px solid red");
+
+$(".seletor").css("border", "3px solid red");
+
+$("#intro").css("border", "3px solid red");
+
+$("p:first").css("border", "3px solid red");

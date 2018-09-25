@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exemplo4</title>
+    <script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
+</head>
+<style>
+    #exemplo {
+        border: 1px solid gray;
+        background-color: #b3c8d0;
+        font-size:14pt;
+        padding-left: 10pt;
+        padding-right: 10pt;
+        min-height: 200px;
+    }
+</style>
+<script type="text/javascript">
+    $("document").ready(function() {
+        $("#exemplo").on("mousemove", onMouseOver);
+
+        //adicionar o click
+        $("#exemplo").on("click",onMouseClick);
+    });
+
+    function onMouseOver(evt){
+        //type = mostra o evento
+        //pageX = mostra a posição x do mouse
+        //pageY = mostra a posição y do mouse
+        $("#exemplo").text(evt.type + ": " + evt.pageX + ", " + evt.pageY);
+    }
+
+    function onMouseClick(evt){
+        $("#exemplo").text(evt.type + ": " + evt.pageX + ", " + evt.pageY);
+        //desliga o evento onMouseOver
+        $("#exemplo").off("mousemove", onMouseOver);
+    }
+</script>
+<body>
+    <h1>Eventos</h1>
+    <div id="exemplo">
+
+    </div>
+</body>
+</html>

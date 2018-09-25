@@ -1,0 +1,31 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Exemplo 9</title>
+<script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
+<link href="estilo.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+    $(function(){
+        //mouseover = quando o mouse estiver em cima do elemento
+        //mouseleave = quando o mouse estiver fora do elemento
+        $("#Exemplo, #Exemplo2, #Exemplo3").on("mouseover mouseleave", efeito);
+
+        function efeito(evt){
+            $(this).toggleClass("aplicafundo");
+        }
+    });
+</script>
+
+
+
+</head>
+
+<body>
+<div id="Exemplo" class="box">Botão 1</div>
+<div id="Exemplo2" class="box">Botão 2 </div> 
+<div id="Exemplo3" class="box">Botão 3 </div> 
+    
+</body>
+</html>

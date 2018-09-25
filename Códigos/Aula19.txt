@@ -1,0 +1,15 @@
+$(iniciar);
+
+function iniciar() {
+  $('#Arrastar').draggable( {
+    cursor:'move',
+    containment:"#Exemplo",
+    stop:Soltou
+  } );
+}
+ 
+function Soltou(event, ui) {
+  var XPos = parseInt( ui.offset.left );
+  var YPos = parseInt( ui.offset.top );
+  alert( "Parou em:\n\(" + XPos + ", " + YPos + ")\n");
+}

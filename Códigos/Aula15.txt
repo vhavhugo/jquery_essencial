@@ -1,0 +1,20 @@
+JQUERY
+======
+
+setInterval("girar()", 3000);
+
+--------------------------------------------
+
+function girar() {
+	
+var imgAtual = $('#conteudo div.atual');
+var imgProx = imgAtual.next();
+    if (imgProx.length == 0)
+    imgProx = $('#conteudo div:first');
+    imgAtual.removeClass('atual').addClass('anterior');
+    imgProx.css({ opacity: 0.0 }).addClass('atual')
+                                   .animate({ opacity: 1.0 }, 1000,
+                                   function() {
+                                    imgAtual.removeClass('anterior');
+                                   });
+}

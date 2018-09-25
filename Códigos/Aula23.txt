@@ -1,0 +1,23 @@
+JQUERY
+======
+
+$(function() {
+    $( "#sortable" ).sortable({
+	update: OK	
+	});
+  });
+  
+  
+function OK (event, ui) {
+	
+	var strItems = "";
+
+                $("#sortable").children().each(function (i) {
+                    var li = $(this);
+                    strItems += li.attr("id") + ':' + i + ',';
+                });
+
+                console.log(strItems);	  
+ }
+ 
+

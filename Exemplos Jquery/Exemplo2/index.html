@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Primeiro Exemplo 2</title>
+        <script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
+        <script type="text/javascript">
+            function exemplo1() {
+                $("p").css("border", "3px solid red");
+            }
+            function exemplo2(){
+                $(".seletor").css("border", "3px solid red");
+            }
+            function exemplo3(){
+                $("#intro").css("border", "3px solid red");
+            }
+            function exemplo4() {
+                $("p:first").css("border", "3px solid red");
+            }
+        </script>
+
+    </head>
+    <body>
+    <h1 id="intro">Seletores e filtros</h1>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eleifend ullamcorper erat, quis convallis elit commodo sit amet. Etiam congue vitae lacus sed rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur quis purus diam. Nulla luctus augue enim, at egestas felis consequat nec. Aenean viverra sodales nunc vitae porta. Vestibulum mi lacus, mollis a gravida id, scelerisque at arcu. Pellentesque dui purus, malesuada sit amet enim sed, rhoncus interdum lorem. Mauris volutpat ipsum eget erat mollis pellentesque. Etiam suscipit ac massa id sodales. Morbi eget massa vitae tortor imperdiet tincidunt. Curabitur malesuada, erat in scelerisque lobortis, nibh mauris commodo leo, eu mattis arcu ipsum ac nibh.</p>
+
+    <h2 class="seletor">Seletor</h2>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eleifend ullamcorper erat, quis convallis elit commodo sit amet. Etiam congue vitae lacus sed rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur quis purus diam. Nulla luctus augue enim, at egestas felis consequat nec. Aenean viverra sodales nunc vitae porta. Vestibulum mi lacus, mollis a gravida id, scelerisque at arcu. Pellentesque dui purus, malesuada sit amet enim sed, rhoncus interdum lorem. Mauris volutpat ipsum eget erat mollis pellentesque. Etiam suscipit ac massa id sodales. Morbi eget massa vitae tortor imperdiet tincidunt. Curabitur malesuada, erat in scelerisque lobortis, nibh mauris commodo leo, eu mattis arcu ipsum ac nibh.</p>
+
+    <h2 class="filtro">Filtro</h2>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eleifend ullamcorper erat, quis convallis elit commodo sit amet. Etiam congue vitae lacus sed rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur quis purus diam. Nulla luctus augue enim, at egestas felis consequat nec. Aenean viverra sodales nunc vitae porta. Vestibulum mi lacus, mollis a gravida id, scelerisque at arcu. Pellentesque dui purus, malesuada sit amet enim sed, rhoncus interdum lorem. Mauris volutpat ipsum eget erat mollis pellentesque. Etiam suscipit ac massa id sodales. Morbi eget massa vitae tortor imperdiet tincidunt. Curabitur malesuada, erat in scelerisque lobortis, nibh mauris commodo leo, eu mattis arcu ipsum ac nibh.</p>
+    <br>
+    <input type="button" name="exemplo1" value="Exemplo1" onclick="exemplo1();"/>
+    <input type="button" name="exemplo2" value="Exemplo2" onclick="exemplo2();"/>
+    <input type="button" name="exemplo3" value="Exemplo3" onclick="exemplo3();"/>
+    <input type="button" name="exemplo4" value="Exemplo4" onclick="exemplo4();"/>
+    </body>
+</html>

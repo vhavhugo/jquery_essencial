@@ -1,0 +1,51 @@
+HTML
+====
+
+ <div id="exemplo">
+ </div>
+ 
+<button id="lerTexto">Ler Texto</button>
+<button id="lerHTML">Ler HTML</button>
+
+
+====================================================
+<script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
+====================================================
+
+
+CSS
+====
+
+#exemplo {
+    border: 1px solid gray;
+    background-color: #b3c8d0;
+    font-size:14pt;
+    padding-left: 10pt;
+    padding-right: 10pt;
+    min-height: 200px;
+}
+
+
+jQuery
+======
+
+$("document").ready(function() {
+
+$("#lerTexto").click(getTexto);
+$("#lerHTML").click(lerHTML);
+
+
+function getTexto() {
+            $.ajax("texto.txt", 
+                   { success: setTexto, type: "GET", dataType: "text" });
+        }
+        
+        function setTexto(data, status, jqxhr) {
+            $("#exemplo").text(data);
+        }
+        
+        function lerHTML() {
+            $("#exemplo").load("exemplo.html");
+        }
+
+});

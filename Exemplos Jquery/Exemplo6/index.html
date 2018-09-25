@@ -1,0 +1,40 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Exemplo 6</title>
+<script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
+<link href="estilos.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+$("document").ready(function(){
+    $("#lerTexto").click(getText);
+    $("#lerHTML").click(lerHTML);
+
+    function getText(){
+        $.ajax("texto.txt",
+            {success: setText, type: "GET", dataType: "text"}
+        );
+    }
+
+    function setText(data, status, jqxhr){
+        $("#exemplo").text(data);
+    }
+
+    function lerHTML() {
+        $("#exemplo").load("exemplo.html");
+    }
+})
+
+</script>
+
+</head>
+
+<body>
+<div id="exemplo">
+</div>
+ 
+<button id="lerTexto">Ler Texto</button>
+<button id="lerHTML">Ler HTML</button>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+JQUERY
+======
+
+$("#Arrastar").draggable({
+	containment: '#Exemplo',
+	cursor: 'move',
+	snap: '#Exemplo'
+	
+	});
+

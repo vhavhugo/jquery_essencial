@@ -1,0 +1,27 @@
+JQUERY
+======
+
+
+$("#fadeIn").click(function() {
+                $("#Exemplo").fadeIn("normal");
+            });
+
+$("#fadeOut").click(function() {
+                $("#Exemplo").fadeOut("normal");
+            });
+
+--------------------------------------------------------
+$("#Exemplo").fadeTo("slow", 0.3);
+
+$("#Exemplo").fadeTo("slow", 1.0);
+
+$("#Exemplo").fadeTo("fast", 0.3)
+            .fadeTo("fast", 1.0)
+            .fadeTo("fast", 0.3)
+            .fadeTo("fast", 1.0);
+
+----------------------------------------------------------
+function finalizar() {
+        $(this).text("Efeito Completo!!!!");
+        }
+

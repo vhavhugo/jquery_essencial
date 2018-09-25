@@ -1,0 +1,50 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Exemplo 7</title>
+<script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
+
+<script type="text/javascript">
+        $("document").ready(function(){
+            //$("#exemplo").children().css("border","3px solid red");
+
+//            var elem = $("#para1");
+//            elem.prev().css("border", "3px solid red");
+
+//            var elem = $("#para1");
+//            elem.next().css("border", "3px solid green");
+
+//            var elem = $("#para1");
+//            elem.parents().css("border", "3px solid blue");
+
+//            $("#exemplo").find("#para4").css("border", "3px solid blue");
+        var leftmargin = 0;
+        var border = 3;
+        $("#exemplo p").each(function(index,element){
+            $(element).css("border", border+"px solid red")
+                .css("margin-left", leftmargin);
+            border += 2;
+            leftmargin += 10;
+        });
+
+        });
+
+</script>
+
+
+</head>
+
+<body>
+
+<div id="exemplo">
+        <p class="a">Primeiro parágrafo</p>
+        <p id="para1">Segundo parágrafo</p>
+        <p class="b">Terceiro parágrafo</p>
+        <p id="para4">Quarto parágrafo</p>
+        <p id="para5">Quinto parágrafo</p>
+</div>
+    
+    
+</body>
+</html>

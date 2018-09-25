@@ -1,0 +1,27 @@
+
+$("#Exemplo").children().css("border", "3px solid red");
+
+=========================================================
+var elem = $("#para1");
+elem.prev().css("border", "3px solid red");
+
+
+=========================================================
+
+elem.next().css("border", "3px solid green");
+elem.parents().css("border", "3px solid blue");
+
+==========================================================
+
+$("#Exemplo").find("#para4").css("border", "3px solid red");
+
+========================================================
+
+var leftmargin = 0;
+var border = 3;
+$("#Exemplo p").each(function(index, element) {
+ $(element).css("border", border+"px solid red")
+	.css("margin-left", leftmargin);
+	border += 2;
+	leftmargin += 10;
+	});

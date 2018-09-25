@@ -1,0 +1,18 @@
+JQUERY
+======
+
+$("#btn1").click(function() {
+$("#Exemplo").animate({ width: "950px" }, 1000);
+});
+
+$("#btn2").click(function() {
+$("#Exemplo").animate({ fontSize: "24pt" }, 1000);
+});
+
+$("#btn3").click(function() {
+$("#Exemplo").animate({ left: "950" }, 1000, "swing");
+});
+
+$("#btn4").click(function() {
+$("#Exemplo").animate({ left: "950", fontSize: "24pt", width: "500px" }, 1000);
+});

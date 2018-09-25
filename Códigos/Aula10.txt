@@ -1,0 +1,8 @@
+$("document").ready(function() {
+	
+	$("#publicidade").click(function() {
+				
+                 $(this).hide();
+        });
+		
+});

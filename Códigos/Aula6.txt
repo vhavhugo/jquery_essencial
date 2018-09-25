@@ -1,0 +1,45 @@
+HTML
+====
+
+<h1>Eventos</h1>
+<div id="exemplo">
+</div>
+
+
+=======================================================================
+
+<script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
+
+========================================================================
+
+CSS
+====
+
+#exemplo {
+    border: 1px solid gray;
+    background-color: #b3c8d0;
+    font-size:14pt;
+    padding-left: 10pt;
+    padding-right: 10pt;
+    min-height: 200px;
+}
+
+
+JQUERY
+=======
+
+
+ $("document").ready(function() {
+            $("#exemplo").on("mousemove", onMouseOver);
+            $("#exemplo").on("click", onMouseClick);
+           
+        });
+        
+        function onMouseOver(evt) {
+            $("#exemplo").text(evt.type + ": " + evt.pageX + ", " + evt.pageY);
+        }
+        function onMouseClick(evt) {
+            $("#exemplo").text(evt.type + ": " + evt.pageX + ", " + evt.pageY);
+			
+            $("#exemplo").off("mousemove", onMouseOver);
+	}

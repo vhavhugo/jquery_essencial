@@ -1,0 +1,22 @@
+$(iniciar);
+ 
+function iniciar() {
+  $('#Arrastar').draggable( {
+    cursor:'move',
+	snap:'#Soltar',
+    containment:"#Exemplo"
+	
+  });
+
+
+  $('#Soltar').droppable( {
+    drop: OK
+  } );
+}
+ 
+function OK() {
+
+$("#Resposta").text("OK!!!!!");  
+$("#Soltar").css("border", "3px solid red");
+
+}

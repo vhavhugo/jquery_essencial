@@ -1,0 +1,40 @@
+HTML
+====
+
+<label for="Cursos">Digite o curso desejado: </label>
+  <input id="Cursos"> <button id="enviar">Enviar </button>
+
+JQUERY
+=======
+
+var PalavrasChave = [
+      "ActionScript",
+      "AppleScript",
+      "Asp",
+      "BASIC",
+      "C",
+      "C++",
+      "Clojure",
+      "COBOL",
+      "ColdFusion",
+      "Erlang",
+      "Fortran",
+      "Groovy",
+      "Haskell",
+      "Java",
+      "JavaScript",
+      "Lisp",
+      "Perl",
+      "PHP",
+      "Python",
+      "Ruby",
+      "Scala",
+      "Scheme"
+    ];
+
+------------------------------
+
+$("#Cursos").autocomplete({
+      source: PalavrasChave
+    });
+

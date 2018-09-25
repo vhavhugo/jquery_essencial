@@ -1,0 +1,11 @@
+HTML
+=====
+
+<label for="campodata">Data:</label> <input type="text" name="Data" id="campodata">
+
+JQUERY
+======
+
+$("#campodata").datepicker();
+
+

@@ -1,0 +1,46 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Exemplo 10</title>
+<script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
+<link href="estilo.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+
+$(function() {
+    $("#fadeIn").click(function(){
+       $("#Exemplo").fadeIn(600);
+    });
+    $("#fadeOut").click(function(){
+       $("#Exemplo").fadeOut(600);
+    });
+    $("#fadeTo").click(function () {
+        $("#Exemplo").fadeTo(600, 0.3)
+            .fadeTo(1200, 1.0)
+            .fadeTo(300, 0.3)
+            .fadeTo(1200, 1.0, finalizar);
+
+        function finalizar() {
+            $(this).text("Efeito Complemento!!!");
+        }
+    })
+ 
+});
+
+</script>
+
+
+
+</head>
+
+<body>
+<div id="Exemplo" class="box">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate elit sit amet risus maximus efficitur. Quisque faucibus lorem purus, eu porta dui pellentesque nec. Vivamus rhoncus non ante a porttitor. Duis molestie turpis in convallis blandit. Aenean a tellus augue. Maecenas et lacus a justo aliquam tincidunt. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque ornare facilisis erat, id tincidunt metus euismod nec. Sed porta odio ut lacus pulvinar, nec mollis nibh convallis. In volutpat volutpat metus eget faucibus. Proin placerat fringilla turpis vitae mollis. Suspendisse nec vulputate nisi, ac hendrerit risus. Fusce semper eu risus a porta. Nunc sed tellus justo.</div>
+
+<div id="botoes">
+<button id="fadeIn">Aplicar fadeIn</button>
+<button id="fadeOut">Aplicar fadeOut</button>
+<button id="fadeTo">Aplicar fadeTo</button>
+</div>    
+</body>
+</html>

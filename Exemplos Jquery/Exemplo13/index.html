@@ -1,0 +1,44 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Exemplo 13</title>
+<script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
+<link href="estilo.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+    $(function () {
+        setInterval("girar()", 5000);
+
+    });
+        function girar() {
+            var imgAtual = $("#conteudo div.atual");
+            var imgProx = imgAtual.next();
+
+            if(imgProx.length == 0)
+                imgProx = $('#conteudo div:first');
+                imgAtual.removeClass('atual').addClass('anterior');
+                imgProx.css({opacty: 0.0}).addClass('atual')
+                    .animate({opacty: 1.0}, 2000,
+                    function () {
+                        imgAtual.removeClass('anterior');
+                    });
+        }
+
+</script>
+</head>
+
+<body>
+<div id="container">
+  <div id="titulo"></div>
+    <div id="conteudo">
+    	<div class="atual"><img src="imgs/img1.jpg" width="990" height="500" alt=""/></div>
+        <div><img src="imgs/img2.jpg" width="990" height="500" alt=""/></div>
+    	<div><img src="imgs/img3.jpg" width="990" height="500" alt=""/></div>
+  </div>
+    <div id="rodape"></div>	
+
+</div>
+    
+</body>
+</html>

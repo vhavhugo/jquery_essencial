@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exemplo 5</title>
+    <script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
+
+<style>
+    #exemplo{
+        position: absolute;
+        width: 150px;
+        height: 100px;
+        margin: 10px;
+        padding: 20px;
+        background: #b3c8d0;
+        border: 1px solid black;
+        font-size: 16pt;
+    }
+</style>
+    <script type="text/javascript">
+        $("document").ready(function () {
+            $("#executar").click(function(){
+                $("#exemplo").animate({width: 400}, 300)
+                    .animate({height: 300}, 400)
+                    .animate({left: 200}, 500)
+                    .animate({borderWidth:10},"slow");
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>Animação</h1>
+
+    <button id="executar">Executar Animação</button>
+
+    <div id="exemplo"></div>
+</body>
+</html>

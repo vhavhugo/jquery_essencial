@@ -1,0 +1,20 @@
+JQUERY
+======
+
+
+$("#aplicar1").click(function() {
+   $("#Exemplo").slideUp(1000);
+   });
+			
+-------------------------------------------
+$("#aplicar2").click(function() {
+   $("#Exemplo").slideDown("fast", "swing");
+   });
+			
+--------------------------------------------			
+
+$("#aplicar3").click(function() {
+   $("#Exemplo").slideToggle("slow");
+   });
+
+----------------------------------------------

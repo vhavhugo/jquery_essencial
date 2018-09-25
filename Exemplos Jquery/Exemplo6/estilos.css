@@ -1,0 +1,9 @@
+@charset "utf-8";
+#exemplo {
+    border: 1px solid gray;
+    background-color: #b3c8d0;
+    font-size:14pt;
+    padding-left: 10pt;
+    padding-right: 10pt;
+    min-height: 200px;
+}

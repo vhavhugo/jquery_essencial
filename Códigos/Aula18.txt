@@ -1,0 +1,14 @@
+$(iniciar);
+
+function iniciar() {
+  $('#Arrastar').draggable({
+    cursor:'move',
+    containment:"#Exemplo",
+    stop:Soltou
+  });
+}
+ 
+function Soltou() {
+  
+  alert("Parou");
+}

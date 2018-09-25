@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+body{
+	background-color:#B3AEAE;	
+}
+
+.box {
+    border: 1px solid gray;
+    background-color: #b3c8d0;
+    font-size:10pt;
+    min-height: 550px;
+    width: 900px;
+	text-align:justify;
+	float:left;
+	padding:10px;
+	margin-left:10px;
+	position:absolute;
+	z-index:0;
+}
+
+#Arrastar{
+	width: 150px;
+	height: 150px;
+	background-color: #FFFFFF;
+	position: absolute;
+	left: 50px;
+	top: 45px;
+	z-index:2;
+	
+}
+
+#Resposta{
+	width: 150px;
+	height: 30px;
+	background-color: #FFFFFF;
+	position: absolute;
+	left: 47px;
+	top: 511px;
+	z-index: 2;
+	
+}
+
+
+#Soltar{
+	width: 170px;
+	height: 170px;
+	background-color:#DBD6D6;
+	position: absolute;
+	left: 653px;
+	top: 309px;
+	z-index:1;
+	
+}
+
+
+#Arrastar.ui-draggable-dragging {
+
+	 background: blue;
+	 }

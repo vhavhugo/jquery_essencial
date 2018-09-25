@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Primeiro Exemplo</title>
+
+</head>
+
+<body>
+</body>
+</html>
+
+-----------------------------------------------
+
+<script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
+
+------------------------------------------------
+
+<script type="text/javascript">
+
+$("document").ready(function() {
+	
+	$("body").append("<p> Página Carregada!! </p>");
+	
+});
+
+</script>

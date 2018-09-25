@@ -1,0 +1,6 @@
+JQUERY
+======
+
+$(function() {
+    $( "#accordion" ).accordion();
+  });

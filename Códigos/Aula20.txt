@@ -1,0 +1,4 @@
+#Arrastar.ui-draggable-dragging {
+
+	 background: blue;
+	 }

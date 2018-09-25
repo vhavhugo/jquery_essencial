@@ -1,0 +1,31 @@
+HTML
+====
+
+<div id="Exemplo" class="box">Botão 1</div>
+<div id="Exemplo2" class="box">Botão 2 </div> 
+
+
+
+JQUERY
+=======
+
+$(function() {
+
+ $("#Exemplo").on("mouseover mouseleave", efeito);
+ 
+ function efeito(evt) {
+            $("#Exemplo").toggleClass("efeito");        
+ }
+ 
+});
+
+
+----------------------------------------------------
+
+
+$("#Exemplo, #Exemplo2").on("mouseover mouseleave", efeito);
+ 
+ function efeito(evt) {
+            $(this).toggleClass("efeito");        
+ }
+

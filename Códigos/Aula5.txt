@@ -1,0 +1,28 @@
+HTML
+=====
+
+<div id="container">
+	<div id="principal"><h1>Título da página</h1></div>
+    <div id="conteudo">Conteúdo</div>
+    <div id="botoes">
+        <input type="button" name="btn1" value="Exemplo 1" onClick="exemplo1()">
+        <input type="button" name="btn2" value="Exemplo 2" onClick="exemplo2()">
+        <input type="button" name="btn3" value="Exemplo 3" onClick="exemplo3()">
+    </div>
+</div>
+
+
+=======================================================
+
+<script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
+
+=======================================================
+
+JQUERY
+======
+
+$("#principal").html("<h1>Menu novo Título</h1>");
+
+$("#principal").prepend("<h2>Menu novo título!!</h2>");
+
+$("#conteudo").text("<h1> Texto Puro!!</h1>");	
