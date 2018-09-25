@@ -4,3 +4,4 @@
 
 https://jqueryui.com
 
+https://lokeshdhakar.com/projects/lightbox2/

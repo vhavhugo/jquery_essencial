@@ -5,15 +5,10 @@
 <title>Exemplo 19</title>
 <script type="text/javascript" src="js/jquery-1.12.1.min.js"></script>
 <link href="css/estilo.css" rel="stylesheet" type="text/css">
-    <link href="jquery-ui.structure.css" rel="stylesheet" type="text/css">
-    <link href="jquery-ui.theme.css" rel="stylesheet" type="text/css">
+<link href="css/lightbox.css" rel="stylesheet">
     <script type="text/javascript">
-        $(function(){
 
-        });
     </script>
-
-
 </head>
 
 <body>
@@ -21,13 +16,14 @@
   <div id="titulo"></div>
     <div id="conteudo">
     
-  <a href="imgs/img1.jpg"><img class="imagem" src="imgs/mini1.jpg" width="200" height="200" alt=""/></a>
-  <a href="imgs/img2.jpg"><img class="imagem" src="imgs/mini2.jpg" width="200" height="200" alt=""/></a>
-  <a href="imgs/img3.jpg"><img class="imagem" src="imgs/mini3.jpg" width="200" height="200" alt=""/></a>
+  <a href="imgs/img1.jpg" data-lightbox="imagens" data-title="Minha primeira imagem"><img class="imagem" src="imgs/mini1.jpg" width="200" height="200" alt=""/></a>
+  <a href="imgs/img2.jpg" data-lightbox="imagens" data-title="Minha segunda imagem"><img class="imagem" src="imgs/mini2.jpg" width="200" height="200" alt=""/></a>
+  <a href="imgs/img3.jpg" data-lightbox="imagens" data-title="Minha terceira imagem"><img class="imagem" src="imgs/mini3.jpg" width="200" height="200" alt=""/></a>
   
    </div>
     <div id="rodape"></div>	
 
 </div>
+<script src="js/lightbox.js"></script>
 </body>
 </html>
